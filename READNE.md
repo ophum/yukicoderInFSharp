@@ -1,1 +1,0 @@
-# yukicoder in fsharp

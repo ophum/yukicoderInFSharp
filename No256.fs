@@ -1,3 +1,5 @@
+open System
+
 let No256 () =
     [
         let IN = Console.ReadLine()
